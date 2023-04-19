@@ -4,3 +4,5 @@
 This code is the experimental code for the reading report of the course "Remote Sensing Image Analysis".
 
 data解压后需放在代码中指定的目录，或者在loaddata.py和loaddata_demo.py中修改文件路径至指定位置
+
+如何获取data文件夹下处理好的数据集：release中Potsdam.zip解压至data文件夹下
